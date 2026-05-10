@@ -1,0 +1,16 @@
+# Claude Code
+.claude/
+
+# VSCode local settings
+.vscode/
+
+# Roteiro de gravação (arquivo pessoal)
+roteiro_video.md
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Great Expectations (gerado automaticamente, não versionável)
+gx/uncommitted/
+gx/plugins/
