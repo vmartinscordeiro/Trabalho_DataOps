@@ -2,8 +2,15 @@
 
 **MBA Engenharia de Dados — FIAP**  
 **Disciplina:** DataOps  
-**Alunos:** Vinicius Martins Cordeiro, Fabio Rizzi, Rodrigo Brito, Carlos Santos  
+**Turma:** 7ABDR  
 **Data:** Maio de 2026
+
+| RM | Nome |
+|----|------|
+| 360401 | Carlos Santos |
+| 365066 | Fabio Rizzi |
+| 364187 | Rodrigo Brito |
+| 364840 | Vinicius Cordeiro |
 
 ---
 
