@@ -2,7 +2,7 @@
 
 **MBA Engenharia de Dados — FIAP**  
 **Disciplina:** DataOps  
-**Aluno:** Vinicius Martins Cordeiro  
+**Alunos:** Vinicius Martins Cordeiro, Fabio Rizzi, Rodrigo Brito, Carlos Santos  
 **Data:** Maio de 2026
 
 ---
